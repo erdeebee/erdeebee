@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Robin.
 - 👀 I’m interested in basketball, vinyl and my motorcycle
-- 🌱 I’m currently learning stuff on freecodecamp and cs50
-- 📫 Reach me on @erdeebee (twitter/instagram) or on LinkedIn
-- Have you read my blog? Go find it at [here](www.robindebruyn.com)
+- 🌱 I’m currently learning stuff on freecodecamp and [cs50](https://github.com/me50/erdeebee)
+- 📫 Reach me on [Twitter](https://www.twitter.com/erdeebee), [Instagram](https://www.instagram.com/erdeebee/) or on [LinkedIn](https://www.linkedin.com/in/robindebruyn/)
+- ✍️ Have you read my blog? Go find it [here](https://www.robindebruyn.com)
 
 <!---
 erdeebee/erdeebee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
