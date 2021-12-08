@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Robin.
+- 👋 Hi, I’m Robin. I'm an functional analyst.
 - 👀 I’m interested in basketball, vinyl and my motorcycle
 - 🌱 I’m currently learning stuff on freecodecamp and [cs50](https://github.com/me50/erdeebee)
 - 🥅 2022 Goals: Create my own website
