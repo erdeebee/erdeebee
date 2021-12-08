@@ -2,6 +2,7 @@
 - 👀 I’m interested in basketball, vinyl and my motorcycle
 - 🌱 I’m currently learning stuff on freecodecamp and cs50
 - 📫 Reach me on @erdeebee (twitter/instagram) or on LinkedIn
+- Have you read my blog? Go find it at [here](www.robindebruyn.com)
 
 <!---
 erdeebee/erdeebee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
